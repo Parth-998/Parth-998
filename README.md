@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Parth-998
 - 👀 I’m interested in AI, Web 3, Crypto, all things gym-related, biohacking, cars, bikes, fighter jets, and more.
-- 🌱 I’m currently learning Python and how to use AAA tools
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on nothing atm. Will update if there is something
 - 📫 How to reach me ...
 
