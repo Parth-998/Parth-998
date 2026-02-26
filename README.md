@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @Parth-998
-- 👀 I’m interested in AI, Web 3, Crypto, all things gym-related, biohacking, cars, bikes, fighter jets, and more.
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on nothing atm. Will update if there is something
-- 📫 How to reach me ...
 
 <!---
 Parth-998/Parth-998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
